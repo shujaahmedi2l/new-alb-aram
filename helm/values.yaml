@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: 696960135893.dkr.ecr.eu-west-1.amazonaws.com/new-alb-aram
-  tag: 29b1e37b701e6d6080f6a247c89fb0dc817b001f
+  tag: 0559c93deb68dc56db1ab75fd821716d0e95531a
   pullPolicy: Always
 
 service:
